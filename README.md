@@ -12,3 +12,7 @@
 9. featur-2 second commit!!
 -------
 10. feature-6 first commit!!!
+------
+11. feature-7 first commit!!!
+12. feature-8 2 commit !!
+13. feature-9 3 commit !!
